@@ -1,5 +1,4 @@
 # India
-
 ## Research Priorities
 - Naga serpent traditions
 - Vritra's conflict with Indra
