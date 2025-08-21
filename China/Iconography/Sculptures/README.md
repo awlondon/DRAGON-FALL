@@ -1,5 +1,9 @@
 # Dragon Sculptures
 
+Dragon sculptures appear across Chinese history in materials ranging from stone to bronze.
+
+- **Gilt-Bronze "Running Dragon" (Tang dynasty)**: a dynamic sculpture capturing a dragon mid-stride, exemplifying the era's flowing style.
+
 Stone and bronze sculptures across China portray dragons in flowing, serpentine poses, embodying the slinking motions detailed in the [choreographic analysis](../../../Dragon%20Mechanics/Choreography/GPT-Dance-Professor.md).
 
 # 唐 鎏金青銅走龍 (Tang Gilt-Bronze Running Dragon)
@@ -11,4 +15,5 @@ Forged in the [Tang dynasty](../../Historical-Timeline/README.md#618907--tang-dy
 ## References
 - Shaanxi History Museum, "Gilded Bronze Running Dragon," collection catalogue, accessed 2024. https://en.sxhm.com/
 - Jessica Rawson, *The British Museum Book of Chinese Art*. London: British Museum Press, 1992, p. 202.
+
 
