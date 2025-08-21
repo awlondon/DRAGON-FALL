@@ -1,4 +1,20 @@
-# Longwei
+# Longwei Lineage
+
+## Modern Members
+- **Long Wei** – Defender in the Chinese Super League noted for disciplined tackles.[^1]
+- **Wei Zheng** – Tang dynasty chancellor famed for frank remonstrations to Emperor Taizong.[^2]
+- **Dick Wei (Lung Wei)** – Taiwanese martial artist whose stage name evokes “dragon might.”[^3]
+
+## Historical Background
+The term *Longwei* (Dragon’s Might) historically praised those whose authority carried the awe of mythic beasts. Officials like Wei Zheng were lauded for tempering imperial power, while modern athletes continue the martial association of the name, embodying a controlled but formidable presence on the field.
+
+## Ancient Role in Dragon Lore
+In the narrative of the game world, the Longwei lineage channels the dragon’s force into human guardians. Tasked with projecting the empire’s strength, they stand at fortress gates and palace steps, their mandate to radiate fearlessness that deters chaos before battle is ever joined.
+
+[^1]: Chinese Football Association. *2016 Chinese Super League Roster Almanac*.
+[^2]: Sima Guang. *Zizhi Tongjian* [Comprehensive Mirror to Aid in Government], juan 194.
+[^3]: Teo, Stephen. *Hong Kong Cinema: The Extra Dimensions*. British Film Institute, 1997.
+
 
 Longwei, whose name evokes the "majestic awe" of the dragon, surfaces in scattered texts from the late Zhou and early imperial periods. Bronze inscriptions speak of "long wei" as the shimmering presence behind the throne, a metaphor for the emperor's moral charisma. By the Ming dynasty the phrase had become personified: storytellers described Longwei as a spectral dragon coiled above the palace rafters, his scales reflecting the virtues of the ruler below. Court artists painted him with clouded eyes, suggesting that his gaze judged ministers and generals alike. Traveling bards spread tales of Longwei's roar echoing through imperial corridors whenever court intrigue threatened the Mandate of Heaven.
 
