@@ -14,7 +14,7 @@ Each image should be downloaded to `images/` and accompanied by an attribution n
 Chinese dragons symbolize power and auspiciousness. Two common motifs are shown below.
 
 ## Five-Clawed Dragons
-Imperial dragons are depicted with five claws, a symbol reserved for the emperor and central authority.
+Imperial dragons are depicted with five claws, a symbol reserved for the emperor and central authority. The five-claw standard was codified during the [Qing dynasty](../Historical-Timeline/README.md#qing-dynasty), with princes and officials limited to four or three claws.
 
 ![Five-clawed dragon](images/five-clawed-dragon.svg)
 *Figure 1. Stylized five-clawed dragon. Image created by ChatGPT; licensed [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).* 
