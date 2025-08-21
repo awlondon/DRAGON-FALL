@@ -1,4 +1,16 @@
-# Chinese Dragons
+# China
+
+The China section anchors the eastern reach of the Dragon-Fall world, blending mythic history with imperial records to show how dynastic power, ritual order, and legendary beasts shape the setting's broader cosmology.
+
+## Index
+- [Historical Timeline](Historical-Timeline/README.md)
+- [Iconography](Iconography/README.md)
+- [Lineage](Lineage/README.md)
+- [Rituals](Rituals/README.md)
+- [Warfare](Warfare/README.md)
+
+## Foundations
+This overview draws from classical works such as Sima Qian's *Records of the Grand Historian* and the *Book of Rites*, grounding the region in enduring cultural and ceremonial traditions.
 
 Chinese dragons (龍, *long*) embody the union of power and benevolence. Unlike their fire-breathing Western counterparts, they are patrons of rain, rivers, and imperial authority. Early chronicles such as Sima Qian's *Records of the Grand Historian* depict dragons as omens that legitimize dynastic rule, while the *Zizhi Tongjian* records their appearance as celestial portents during times of upheaval.^[1^][2]
 
