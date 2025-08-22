@@ -16,7 +16,7 @@ In myth, dragons are predators or ecosystem engineers. A real organism capable o
 
 **Hydrological control:** In arid environments, a sudden release of stored water could extinguish fires or irrigate nesting sites. Desert frogs such as the water-holding frog (*Ranoidea platycephala*) survive long droughts by filling an enlarged bladder with water equal to up to 60% of their body weight and reabsorbing it during aestivation ([https://www.australiangeographic.com.au/](https://www.australiangeographic.com.au/fact-file/water-holding-frog-cyclorana-platycephala-cyclorana-occidentalis/)). A dragon might similarly store water in specialized sacs for controlled release.
 
-**Nutrient cycling and territory marking:** Large herbivores fertilize ecosystems through urine and feces. Marine ecologists estimate that baleen whales can produce up to 950 L of urine per day, moving nitrogen from polar feeding grounds to nutrient-poor tropical waters ([phys.org](https://phys.org)). A dragon’s massive urine stream could enrich soils or mark territory while also serving as a deterrent.
+**Nutrient cycling and territory marking:** Large herbivores fertilize ecosystems through urine and feces. Marine ecologists estimate that baleen whales can produce up to 950 L of urine per day, moving nitrogen from polar feeding grounds to nutrient-poor tropical waters [([phys.org](https://phys.org))](https://phys.org/news/2025-03-whales-nutrients-alaska-hawaii-urine.html). A dragon’s massive urine stream could enrich soils or mark territory while also serving as a deterrent.
 
 ## 2 Internal anatomy and chemistry of a fire-breathing dragon
 
