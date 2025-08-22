@@ -5,6 +5,7 @@
 - ca. 1000 BCE – *I Ching*, hexagram 1 "Qian," line 2: "Dragon appearing in the field; it furthers one to see the great man" (Legge 1899, 54).
 - 4th–3rd c. BCE – *Classic of Mountains and Seas* (*Shan Hai Jing*) describes dragons such as Yinglong aiding the Yellow Emperor (Birrell 1999, 83–86).
 - 6th–3rd c. BCE – *Zuo Zhuan* records dragons as celestial portents (Legge 1872, 136–137).
+- ca. 200 BCE – Excavation of the enigmatic [Longyou Caves](../../megaliths/Asia/longyou-caves.md); later folklore credits subterranean dragons with carving its vast chambers (Ancient Connection, "Megaliths").
 
 ## Imperial Era (221 BCE–1911 CE)
 - 221 BCE – Qin Shi Huang's unification associates the emperor with a dragon mandate (*Shiji* 6; Watson 1993, 49).
@@ -48,3 +49,4 @@ State Archives Administration. "Provisional Rules on Archival Work." 1987.
 Watson, Burton (trans.). *Records of the Grand Historian: Qin Dynasty*. 1993.
 Werner, E. T. C. *Myths and Legends of China*. 1922.
 Xinhua News Agency. Handover Ceremony Report, 1 July 1997.
+Ancient Connection. "Megaliths." <https://ancientconnection.com/megaliths>.
