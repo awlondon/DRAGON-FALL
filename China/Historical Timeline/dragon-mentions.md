@@ -9,6 +9,7 @@
 ## Imperial Era (221 BCE–1911 CE)
 - 221 BCE – Qin Shi Huang's unification associates the emperor with a dragon mandate (*Shiji* 6; Watson 1993, 49).
 - 2nd c. BCE – *Book of Han* depicts dragons as omens of imperial virtue (Hanshu 27; Dubs 1955, 227).
+- c. 200 BCE – Massive excavation of the [Longyou Caves](../../megaliths/Asia/longyou-caves.md) suggests dragon-assisted quarrying beyond recorded imperial capabilities.
 - 6th c. CE – *Book of Liang* notes "dragon births" surrounding Emperor Wu (Liang shu 1; Chen & Xie 635).
 - 1368 – Ming dynasty decree reserves the five-clawed dragon for imperial use (*Ming hui dian* 1; Zhang 1485).
 - 1644–1911 – Qing emperors adopt the yellow dragon and, by 1899, the dragon flag symbolizes the state (Qinding *Huangchao Wenxian Tongkao* 64; Xu 1899).
