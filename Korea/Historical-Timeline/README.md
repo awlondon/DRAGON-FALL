@@ -1,8 +1,12 @@
 # Historical Timeline
 
-Chronicles such as the *Samguk Sagi* and *Samguk Yusa* record dragons aiding the founding kings of Goguryeo and Silla, tying draconic omens to Korea's early state formation.^[1^] During the Goryeo and Joseon eras, court astrologers interpreted dragon apparitions as indicators of royal virtue, echoing similar practices in [China](../../China/README.md).^[2^] The Imjin War (1592–1598) produced tales of dragons shielding Admiral Yi Sun-sin's fleets, linking maritime defense to celestial favor.^[3^]
+- **676 CE** – King Munmu's ashes are scattered into the East Sea so he may become a dragon protecting Silla.^[1^]
+- **1592** – Admiral Yi Sun-sin fields turtle ships with dragon-head prows during the Imjin War.^[2^]
+- **1897** – The royal dragon robe (*gonryongpo*) is codified as imperial court attire in the Korean Empire.^[3^]
+- **2006** – The film *D-War* popularizes the legend of the *imugi* for international audiences.^[4^]
 
 ## Sources
-1. Wikipedia contributors, "Samguk Yusa," *Wikipedia*, <https://en.wikipedia.org/wiki/Samguk_Yusa>.
-2. Wikipedia contributors, "Samguk Sagi," *Wikipedia*, <https://en.wikipedia.org/wiki/Samguk_Sagi>.
-3. Wikipedia contributors, "Yi Sun-sin," *Wikipedia*, <https://en.wikipedia.org/wiki/Yi_Sun-sin>.
+1. Wikipedia contributors, "Munmu of Silla," *Wikipedia*, <https://en.wikipedia.org/wiki/Munmu_of_Silla>.
+2. Wikipedia contributors, "Turtle ship," *Wikipedia*, <https://en.wikipedia.org/wiki/Turtle_ship>.
+3. Wikipedia contributors, "Gonryongpo," *Wikipedia*, <https://en.wikipedia.org/wiki/Gonryongpo>.
+4. Wikipedia contributors, "D-War," *Wikipedia*, <https://en.wikipedia.org/wiki/D-War>.

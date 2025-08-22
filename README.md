@@ -50,14 +50,14 @@ The **[Dragon Mechanics](Dragon%20Mechanics)** folder explores how dragons move 
 
 ## Korean dragons
 
-Korean dragons (yong/ryong 용/룡, mireu 미르) share East Asian features but are primarily benevolent water spirits. Unlike fire-breathing Western dragons, Korean dragons are linked to water and agriculture and are considered bringers of rain and clouds.【4†L1-L3】 Myths describe dragons living in rivers, lakes and deep mountain pools; they can understand human emotions and sometimes transform into guardian kings.【4†L4-L7】 The *imugi* (이무기) myth explains that giant serpents may become dragons after a thousand years or by obtaining a magical orb (*yeouiju*).【5†L1-L3】 Korean dragons feature prominently on royal robes and naval vessels—turtle ships (*geobukseon*) had dragon-headed prows that could emit smoke or sulphur gas to intimidate enemies.【6†L1-L3】
+Korean dragons (yong/ryong 용/룡, mireu 미르) share East Asian features but are primarily benevolent water spirits. Unlike fire-breathing Western dragons, Korean dragons are linked to water and agriculture and are considered bringers of rain and clouds.【4†L1-L3】 Myths describe dragons living in rivers, lakes and deep mountain pools; they can understand human emotions and sometimes transform into guardian kings.【4†L4-L7】 The *imugi* (이무기) myth explains that giant serpents may become dragons after a thousand years or by obtaining a magical orb (*yeouiju*).【5†L1-L3】 Korean dragons feature prominently on royal robes and naval vessels—turtle ships (*geobukseon*) had dragon-headed prows that could emit smoke or sulphur gas to intimidate enemies.【6†L1-L3】 King Munmu of Silla ordered his ashes scattered in the East Sea so he could return as a dragon guardian,【16†L1-L2】 and the *gonryongpo* dragon robe became formal court attire in the Korean Empire.【17†L1-L2】
 
-### Prospective research
+### Ongoing research
 
-The Korean folder currently contains placeholders. Future additions should:
+The Korean folder now includes a timeline from Silla-era dragon legends to modern media and notes on royal dragon iconography. Future work may:
 
-- Compile a historical timeline of dragon references from early texts like the *Samguk Sagi* and *Samguk Yusa* to modern cinema.
-- Document iconography such as *Unryongdo* (“Dragon in clouds”) paintings and dragon motifs on palace architecture.
+- Broaden the historical timeline with additional entries from early chronicles to contemporary culture.
+- Document more iconography such as palace ceiling dragons and *Unryongdo* (“Dragon in clouds”) paintings.
 - Define lineages inspired by the legendary King Munmu, *imugi* transformations and maritime guardians, following the pattern used in the Chinese section.
 - Describe rituals like rain-prayer ceremonies and New Year dragon dances.
 - Explore warfare symbolism, including the turtle ship and military use of dragon imagery.
@@ -166,3 +166,5 @@ Dragon-Fall aims to become a comprehensive, cross-cultural compendium of dragon 
 13. “Quetzalcoatl: Feathered Serpent of Mesoamerica,” *Historical MX*, <https://historicalmx.org/articles/quetzalcoatl-feathered-serpent-of-mesoamerica>.
 14. Wikipedia contributors, “Apep,” *Wikipedia, The Free Encyclopedia*, <https://en.wikipedia.org/wiki/Apep>.
 15. Wikipedia contributors, “Uraeus,” *Wikipedia, The Free Encyclopedia*, <https://en.wikipedia.org/wiki/Uraeus>.
+16. Wikipedia contributors, “Munmu of Silla,” *Wikipedia, The Free Encyclopedia*, <https://en.wikipedia.org/wiki/Munmu_of_Silla>.
+17. Wikipedia contributors, “Gonryongpo,” *Wikipedia, The Free Encyclopedia*, <https://en.wikipedia.org/wiki/Gonryongpo>.
