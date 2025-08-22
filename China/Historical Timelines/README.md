@@ -4,6 +4,7 @@
 - **c. 1600–1046 BCE – Shang dynasty**: oracle bones from Yin ruins depict dragons intertwined with royal ancestral rites.
 - **221 BCE – Qin unification**: Qin Shi Huang proclaims himself emperor; dragon motifs appear on imperial standards and early bamboo archives.
 - **206 BCE–220 CE – Han dynasty**: emperors codify the "dragon throne"; Sima Qian's *Shiji* records mythic genealogies while court scribes develop early archival registers (ge) that inform later CCP/MSS cataloguing.
+- <a id="208-ce-battle-of-red-cliffs"></a>**208 CE – Battle of Red Cliffs**: Allied forces pray to river dragons; fog attributed to dragons conceals their fire attack. See [`../Warfare Tactics/battle-of-red-cliffs.md`](../Warfare%20Tactics/battle-of-red-cliffs.md).
 - **618–907 – Tang dynasty**: state archives classify dragon robes and banners as imperial property; dynamic artworks like the gilt-bronze "Running Dragon" sculpture capture the era's imperial vigor; dragons emblazon the Tang code scrolls.
 - **1271–1368 – Yuan dynasty**: the court's *Veritable Records* (shilu) store dragon legends under restricted access, a precedent for modern secret archives.
 - **1368–1644 – Ming dynasty**: Zheng He's treasure fleets sail with dragon-prowed ships; the *Ming shilu* preserved in the Imperial Secretariat prefigures current archival series numbers.
