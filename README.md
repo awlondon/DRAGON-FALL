@@ -16,16 +16,15 @@ The following overview summarises the research currently present in the reposito
 Chinese dragons (long 龍) are benevolent creatures associated with water, weather and imperial authority.【1†L1-L2】 They are portrayed as serpentine, wingless beings who control rainfall and rivers.【1†L5-L6】 Classical sources describe four Dragon Kings—Azure, Vermilion, White and Black—who govern the seas and dispense rain; people built temples and offered sacrifices during floods or droughts.【2†L1-L2】 Five-clawed dragons became imperial emblems; yellow or gold dragons represented the emperor and decorated Qing-dynasty flags.【1†L32-L35】
 
 ### Historical timeline
-
-`China/Historical-Timeline/dragon-mentions.md` lists prehistoric jade carvings (Hongshan culture), canonical texts such as the *Classic of Mountains and Seas*, early imperial chronicles (e.g., *Records of the Grand Historian*), and modern references like Hou Dejian’s song “Descendants of the Dragon” (1978) and the 2008 Beijing Olympics. This file notes how archivists can expand the timeline with citations and emphasises the continuity of dragon imagery in Chinese culture.
+**[Dragon Mentions](China/Historical-Timeline/dragon-mentions.md)** lists prehistoric jade carvings (Hongshan culture), canonical texts such as the *Classic of Mountains and Seas*, early imperial chronicles (e.g., *Records of the Grand Historian*), and modern references like Hou Dejian’s song “Descendants of the Dragon” (1978) and the 2008 Beijing Olympics. This file notes how archivists can expand the timeline with citations and emphasises the continuity of dragon imagery in Chinese culture.
 
 ### Iconography
 
-The iconography folder contains curated images and descriptions of dragon art. A separate `README.md` explains the five-clawed imperial dragon and cloud-scroll motifs. The sculptural subdirectory discusses pieces like a Tang-dynasty gilt-bronze “running dragon” from the Hejia Village hoard, whose cat-like posture and serpentine motion inspired the choreography section.
+The iconography folder contains curated images and descriptions of dragon art. A separate **[README](China/Iconography/README.md)** explains the five-clawed imperial dragon and cloud-scroll motifs. The sculptural subdirectory discusses pieces like a Tang-dynasty gilt-bronze “running dragon” from the Hejia Village hoard, whose cat-like posture and serpentine motion inspired the choreography section.
 
 ### Lineage
 
-Dragon-Fall introduces fictional lineages to integrate historical themes into a game or story. The `China/Lineage` directory describes five clans:
+Dragon-Fall introduces fictional lineages to integrate historical themes into a game or story. The **[Lineage](China/Lineage)** directory describes five clans:
 
 | Lineage (Chinese name) | Summary |
 | --- | --- |
@@ -35,19 +34,19 @@ Dragon-Fall introduces fictional lineages to integrate historical themes into a 
 | **Yanlong (炎龍 – Flame Dragon)** | Linked to fire, volcanoes and metallurgy; their festivals celebrate fireworks and forge work. |
 | **Zhilong (質龍 – Auspicious Dragon)** | Mariners and monks who disseminate knowledge and prosper through trade; associated with Zheng Zhilong and maritime lore. |
 
-Each lineage file includes modern members (fictional or historical), mythic origins, roles in the game-world and suggestions for further research. Contributors are encouraged to create additional lineages by following the template in `China/Lineage/README.md`.
+Each lineage file includes modern members (fictional or historical), mythic origins, roles in the game-world and suggestions for further research. Contributors are encouraged to create additional lineages by following the template in **[README](China/Lineage/README.md)**.
 
 ### Rituals
 
-`China/Rituals/README.md` summarises festivals and rites where dragons are invoked. It describes the Dragon Boat Festival, commemorating poet Qu Yuan; legend recounts that villagers paddled out in dragon boats, beating drums and throwing rice to distract fish so that his body could be retrieved.【3†L1-L2】 The file also covers spring festival dragon dances, rain-invoking ceremonies for the Azure Dragon lineage, the Tai Hang fire-dragon dance and scholarly offerings to Zhilong.
+**[README](China/Rituals/README.md)** summarises festivals and rites where dragons are invoked. It describes the Dragon Boat Festival, commemorating poet Qu Yuan; legend recounts that villagers paddled out in dragon boats, beating drums and throwing rice to distract fish so that his body could be retrieved.【3†L1-L2】 The file also covers spring festival dragon dances, rain-invoking ceremonies for the Azure Dragon lineage, the Tai Hang fire-dragon dance and scholarly offerings to Zhilong.
 
 ### Warfare
 
-Dragons appear symbolically and mythically in Chinese warfare. The `Warfare` directory notes the Battle of Red Cliffs, where dragons were invoked to summon fog; the *Huo Long Jing* treatise on fire-dragon rockets; dragon ships at the Battle of Lake Poyang; and modern programs such as the Shenlong (“divine dragon”) rocket. Another file catalogues alleged dragon interventions in battles across cultures, from Hastings to Dinas Emrys, and lists weapons such as Roman *draco* standards and Tang dragon guards.
+Dragons appear symbolically and mythically in Chinese warfare. The **[Warfare Tactics](China/Warfare%20Tactics)** directory notes the Battle of Red Cliffs, where dragons were invoked to summon fog; the *Huo Long Jing* treatise on fire-dragon rockets; dragon ships at the Battle of Lake Poyang; and modern programs such as the Shenlong (“divine dragon”) rocket. Another file catalogues alleged dragon interventions in battles across cultures, from Hastings to Dinas Emrys, and lists weapons such as Roman *draco* standards and Tang dragon guards.
 
 ### Dragon mechanics
 
-The `Dragon Mechanics` folder explores how dragons move and fight. A creative narrative, “GPT Dance Professor”, depicts a dragon gliding through its lair with feline grace and serpentine flexion. Contributors are invited to model dragon choreography, anatomy and physiology, possibly referencing sculptures and martial arts forms.
+The **[Dragon Mechanics](Dragon Mechanics)** folder explores how dragons move and fight. A creative narrative, “GPT Dance Professor”, depicts a dragon gliding through its lair with feline grace and serpentine flexion. Contributors are invited to model dragon choreography, anatomy and physiology, possibly referencing sculptures and martial arts forms.
 
 ## Korean dragons
 
@@ -93,7 +92,7 @@ The Indian directory currently lists Nāga lineages with minimal description. Fu
 
 ## Tibetan dragons
 
-Tibetan folklore venerates the Druk (“Thunder Dragon”), a symbol of sovereignty in Bhutan and monastic authority in Tibet.【12†L1-L2】 The thunder-dragon is associated with the sound of thunder and with Dzogchen (“Great Perfection”) teachings. The `Tibet/README.md` file sets out research priorities: studying Druk symbolism, exploring Tibetan rain and thunder rituals, and documenting dragon imagery in architecture. It emphasises strict citation practices and encourages the use of public-domain or Creative Commons images.
+Tibetan folklore venerates the Druk (“Thunder Dragon”), a symbol of sovereignty in Bhutan and monastic authority in Tibet.【12†L1-L2】 The thunder-dragon is associated with the sound of thunder and with Dzogchen (“Great Perfection”) teachings. The **[README](Tibet/README.md)** file sets out research priorities: studying Druk symbolism, exploring Tibetan rain and thunder rituals, and documenting dragon imagery in architecture. It emphasises strict citation practices and encourages the use of public-domain or Creative Commons images.
 
 ### Prospective research
 
@@ -109,7 +108,7 @@ In Mesoamerica, the archetypal dragon is the Feathered Serpent, known as Quetzal
 
 ### Prospective research
 
-`Mesoamerica/README.md` lists priorities like feathered-serpent traditions and dragon symbolism in warfare. To build on this:
+The **[README](Mesoamerica/README.md)** lists priorities like feathered-serpent traditions and dragon symbolism in warfare. To build on this:
 
 - Create a historical timeline spanning Olmec, Teotihuacan, Maya and Aztec references to feathered serpents.
 - Curate iconography of murals, sculptures and codices showing Quetzalcoatl, Kukulcan and Gucumatz.
@@ -119,7 +118,7 @@ In Mesoamerica, the archetypal dragon is the Feathered Serpent, known as Quetzal
 
 ## Mesopotamian dragons
 
-The Mesopotamian folder currently contains only a placeholder `README`. Future research may explore:
+The Mesopotamian folder currently contains only a placeholder **[README](Mesopotamia/README.md)**. Future research may explore:
 
 - Tiamat, the primordial chaos dragon of Babylonian myth, slain by the god Marduk.
 - Ušumgallu and Mushussu, serpentine creatures on Babylonian Ishtar Gate reliefs.
