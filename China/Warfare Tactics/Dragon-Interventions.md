@@ -1,7 +1,7 @@
 # Dragonly Influenced Warfare
 
 ## Alleged Dragon Interventions in Battle
-- **Battle of Red Cliffs (208 CE)**: Chronicles report fiery serpents in the sky interpreted as dragons predicting victory for allied forces led by Zhou Yu and Zhuge Liang.
+- **[Battle of Red Cliffs (208 CE)](battle-of-red-cliffs.md)**: Chronicles report fiery serpents in the sky interpreted as dragons predicting victory for allied forces led by Zhou Yu and Zhuge Liang.
 - **Battle of Hastings (1066)**: Norman chroniclers describe William the Conqueror rallying troops under the dragon-standard of Wessex, blending omens with battlefield morale.
 - **Legend of Dinas Emrys (c. 5th century)**: Geoffrey of Monmouth recounts red and white dragons fighting beneath Vortigern's fort, symbolizing shifting power among Britons and Saxons.
 
