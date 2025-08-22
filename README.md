@@ -46,7 +46,7 @@ Dragons appear symbolically and mythically in Chinese warfare. The **[Warfare Ta
 
 ### Dragon mechanics
 
-The **[Dragon Mechanics](Dragon Mechanics)** folder explores how dragons move and fight. A creative narrative, “GPT Dance Professor”, depicts a dragon gliding through its lair with feline grace and serpentine flexion. Contributors are invited to model dragon choreography, anatomy and physiology, possibly referencing sculptures and martial arts forms.
+The **[Dragon Mechanics](Dragon%20Mechanics)** folder explores how dragons move and fight. A creative narrative, “GPT Dance Professor”, depicts a dragon gliding through its lair with feline grace and serpentine flexion. Contributors are invited to model dragon choreography, anatomy and physiology, possibly referencing sculptures and martial arts forms.
 
 ## Korean dragons
 
