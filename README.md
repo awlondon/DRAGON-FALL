@@ -16,7 +16,7 @@ The following overview summarises the research currently present in the reposito
 Chinese dragons (long 龍) are benevolent creatures associated with water, weather and imperial authority.【1†L1-L2】 They are portrayed as serpentine, wingless beings who control rainfall and rivers.【1†L5-L6】 Classical sources describe four Dragon Kings—Azure, Vermilion, White and Black—who govern the seas and dispense rain; people built temples and offered sacrifices during floods or droughts.【2†L1-L2】 Five-clawed dragons became imperial emblems; yellow or gold dragons represented the emperor and decorated Qing-dynasty flags.【1†L32-L35】
 
 ### Historical timeline
-**[Dragon Mentions](China/Historical Timeline/dragon-mentions.md)** lists prehistoric jade carvings (Hongshan culture), canonical texts such as the *Classic of Mountains and Seas*, early imperial chronicles (e.g., *Records of the Grand Historian*), and modern references like Hou Dejian’s song “Descendants of the Dragon” (1978) and the 2008 Beijing Olympics. This file notes how archivists can expand the timeline with citations and emphasises the continuity of dragon imagery in Chinese culture.
+**[Dragon Mentions](China/Historical%20Timeline/dragon-mentions.md)** lists prehistoric jade carvings (Hongshan culture), canonical texts such as the *Classic of Mountains and Seas*, early imperial chronicles (e.g., *Records of the Grand Historian*), and modern references like Hou Dejian’s song “Descendants of the Dragon” (1978) and the 2008 Beijing Olympics. This file notes how archivists can expand the timeline with citations and emphasises the continuity of dragon imagery in Chinese culture.
 
 ### Iconography
 
