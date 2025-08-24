@@ -1,0 +1,15 @@
+# Japan
+
+Japanese dragon lore intertwines indigenous kami beliefs with imported motifs from neighboring [China](../china/README.md) and [Korea](../korea/README.md). Chronicles such as the *Kojiki* and *Nihon Shoki* recount heroes confronting the eight-headed Yamata no Orochi and describe Ryūjin, the sea deity who commands tides and grants magical jewels.^[1^][2^] These serpentine guardians of rain and the imperial regalia embody the archipelago's maritime focus while echoing continental cosmology.^[3^]
+
+## Index
+- [Historical Timeline](historical-timeline/README.md)
+- [Iconography](iconography/README.md)
+- [Lineage](lineage/README.md)
+- [Rituals](rituals/README.md)
+- [Warfare](warfare/README.md)
+
+## References
+1. Donald L. Philippi, trans., *Kojiki* (University of Tokyo Press, 1968).
+2. Michael Ashkenazi, *Handbook of Japanese Mythology* (ABC-CLIO, 2003).
+3. Charles Holcombe, *A History of East Asia* (Cambridge University Press, 2017).
