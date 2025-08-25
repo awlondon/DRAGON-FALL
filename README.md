@@ -31,6 +31,7 @@ Use the table below to jump directly to material for a given region and theme.
 Additional folders explore broader or supporting topics:
 
 - [Dragon Mechanics](Dragon%20Mechanics/README.md) – movement, anatomy, and combat of dragons
+- [Evolutionary Arc of Dragons](Dragon%20Mechanics/evolutionary-arc.md) – plasticity‑first lineage from subterranean synapsids to modern dragons
 - [Bombardier Beetle Spray Mechanism](bombardier-beetle-spray-mechanism/README.md) – natural chemical defenses for inspiration
 - [Megaliths](megaliths/README.md) – catalogue of global megalithic structures
 

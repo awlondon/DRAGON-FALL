@@ -15,4 +15,7 @@ Displacement of specialized cuticular structures at the junction between the res
 - [`abstract.md`](./abstract.md) – summary of the paper's abstract.
 - [`main-text/`](./main-text/) – thematic sections covering background, anatomy, spray dynamics, experimental approaches, and results.
 - [`data/`](./data/) – Markdown tables and figure descriptions drawn from the manuscript.
+
 - [`references.md`](./references.md) – list of cited works.
+
+This biological mechanism parallels the glandular heat‑jet systems in dragons described in the [Evolutionary Arc of Dragons](../Dragon%20Mechanics/evolutionary-arc.md).
