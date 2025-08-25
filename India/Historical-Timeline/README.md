@@ -1,7 +1,9 @@
 # Historical Timeline
 
-Vedic hymns of the *Rigveda* recount Indra's battle with the drought-serpent Vṛtra, one of the earliest Indo-European dragon-slayer myths (c. 1500 BCE).^[1^] The *Mahabharata* and Puranas later expand Nāga genealogies, describing serpent kingdoms beneath rivers and seas, while Buddhist chronicles place Nāga kings at the Buddha's sermons, paralleling dragon narratives in [Japan](../../Japan/Historical-Timeline/README.md).^[2^]
+Vedic hymns of the *Rigveda* portray Indra shattering the drought-serpent Vṛtra with the thunderbolt, releasing the pent-up waters (c. 1500 BCE).^[1^] Epic and Purāṇic literature catalog subterranean Nāga dynasties—Vasuki, Takṣaka, and Śeṣa—while the *Bhāgavata Purāṇa* recounts Krishna dancing upon the venomous Kāliya in the Yamunā.^[2^][3^] Medieval compilations like the *Skanda Purāṇa* trace Vṛtra's birth to the artisan-god Tvaṣṭṛ, linking serpent adversaries of the gods to cosmic cycles also echoed in [Japan](../../Japan/Historical-Timeline/README.md).^[4^]
 
 ## Sources
 1. Wikipedia contributors, "Vritra," *Wikipedia*, <https://en.wikipedia.org/wiki/Vritra>.
 2. Wikipedia contributors, "Naga Kingdom," *Wikipedia*, <https://en.wikipedia.org/wiki/Naga_Kingdom>.
+3. Wikipedia contributors, "Kaliya (Krishna)," *Wikipedia*, <https://en.wikipedia.org/wiki/Kaliya_(Krishna)>.
+4. Wikipedia contributors, "Skanda Purana," *Wikipedia*, <https://en.wikipedia.org/wiki/Skanda_Purana>.
