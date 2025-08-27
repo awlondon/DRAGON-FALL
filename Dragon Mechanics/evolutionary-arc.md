@@ -1,6 +1,6 @@
 # Evolutionary Arc of Dragons
 
-Below is a 300‑million‑year, plasticity‑first evolutionary arc for subterranean, oviparous synapsids that become the dragons of this world. The through‑line is the same mechanism you asked about: incubation‑driven epigenetic plasticity (temperature, humidity, O₂/CO₂, and thermal pulses during narrow windows) → consistent selection on the induced morphs → genetic accommodation/assimilation (traits become encoded and canalized). Mass extinctions and climate swings act as filters and accelerants.
+Below is a 300‑million‑year, plasticity‑first evolutionary arc for subterranean, oviparous synapsids that become the dragons of this world. The through‑line: incubation‑driven epigenetic plasticity (temperature, humidity, O₂/CO₂, and thermal pulses during narrow windows) → consistent selection on the induced morphs → genetic accommodation/assimilation (traits become encoded and canalized). Mass extinctions and climate swings act as filters and accelerants.
 
 ## Mechanism in one line
 
